@@ -8,7 +8,5 @@
 Currently working
 
 - [x] CI
-- [ ] CodeCov
+- [x] CodeCov
 - [x] Documentation/GitHub Pages
-
-TODO: CodeCov
