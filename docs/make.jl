@@ -19,5 +19,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/pb866/SFTP.jl",
-    devbranch="dev",
+    devbranch="main",
 )
