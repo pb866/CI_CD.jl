@@ -5,6 +5,7 @@ CurrentModule = SFTP
 # SFTP
 
 Documentation for [SFTP](https://github.com/pb866/SFTP.jl).
+This is a test repo only.
 
 ```@index
 ```
