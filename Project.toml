@@ -1,7 +1,7 @@
 name = "SFTP"
 uuid = "fba9f14e-740f-4152-9d1a-f26f0fc12be4"
 authors = ["Peter Bräuer <pb866.git@gmail.com> and contributors"]
-version = "1.0.0-DEV"
+version = "0.1.0"
 
 [compat]
 julia = "1.10"

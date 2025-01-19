@@ -9,4 +9,4 @@ Currently working
 
 - [x] CI
 - [ ] CodeCov
-- [ ] Documentation/GitHub Pages
+- [x] Documentation/GitHub Pages
