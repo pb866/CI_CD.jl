@@ -12,7 +12,7 @@ Documentation for [SFTP](https://github.com/pb866/SFTP.jl).
 ```@doctest 
 julia> ]
 
-(@v1.11) pkg> activate .
+pkg> activate .
   Activating project at `~/Applications/SFTP`
 
 julia> using SFTP
