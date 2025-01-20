@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = SFTP","category":"page"},{"location":"#SFTP","page":"Home","title":"SFTP","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Documentation for SFTP. This is a test repo only.","category":"page"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"julia> ]\n\npkg> activate .\n  Activating project at `~/Applications/SFTP`\n\njulia> using SFTP","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [SFTP]","category":"page"}]
+}
