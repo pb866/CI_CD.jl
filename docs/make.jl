@@ -1,14 +1,14 @@
-using SFTP
+using CI_CD
 using Documenter
 
-DocMeta.setdocmeta!(SFTP, :DocTestSetup, :(using SFTP); recursive=true)
+DocMeta.setdocmeta!(CI_CD, :DocTestSetup, :(using CI_CD); recursive=true)
 
 makedocs(;
-    modules=[SFTP],
+    modules=[CI_CD],
     authors="Peter Bräuer <pb866.git@gmail.com> and contributors",
-    sitename="SFTP.jl",
+    sitename="CI_CD.jl",
     format=Documenter.HTML(;
-        canonical="https://pb866.github.io/SFTP.jl",
+        canonical="https://pb866.github.io/CI_CD.jl",
         edit_link="dev",
         assets=String[],
     ),
@@ -18,6 +18,6 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/pb866/SFTP.jl",
+    repo="github.com/pb866/CI_CD.jl",
     devbranch="main",
 )

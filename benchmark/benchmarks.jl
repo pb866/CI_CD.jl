@@ -1,4 +1,4 @@
-using SFTP
+using CI_CD
 using BenchmarkTools
 
 SUITE = BenchmarkGroup()

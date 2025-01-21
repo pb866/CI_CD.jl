@@ -73,6 +73,6 @@ jobs:
         shell: julia --project=docs --color=yes {0}
         run: |
           using Documenter: DocMeta, doctest
-          using SFTP
-          DocMeta.setdocmeta!(SFTP, :DocTestSetup, :(using SFTP); recursive=true)
-          doctest(SFTP)
+          using CI_CD
+          DocMeta.setdocmeta!(CI_CD, :DocTestSetup, :(using CI_CD); recursive=true)
+          doctest(CI_CD)

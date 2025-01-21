@@ -1,8 +1,9 @@
-module SFTP
+module CI_CD
 
 f(x::Int) = x^2
 f(x::Float64) = round(x)^2
-function verbosesign(x::Real) #GCOVR_EXCL_FUNCTION
+#GCOVR_EXCL_START
+function verbosesign(x::Real)
     if x < 0
         return "negative"
     elseif x > 0
@@ -11,4 +12,5 @@ function verbosesign(x::Real) #GCOVR_EXCL_FUNCTION
         return "neutral"
     end
 end
+#GCOVR_EXCL_STOP
 end

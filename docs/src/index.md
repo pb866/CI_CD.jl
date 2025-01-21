@@ -1,10 +1,10 @@
 ```@meta
-CurrentModule = SFTP
+CurrentModule = CI_CD
 ```
 
-# SFTP
+# CI_CD
 
-Documentation for [SFTP](https://github.com/pb866/SFTP.jl).
+Documentation for [CI_CD](https://github.com/pb866/CI_CD.jl).
 This is a test repo only.
 
 ```@index
@@ -14,11 +14,11 @@ This is a test repo only.
 julia> ]
 
 pkg> activate .
-  Activating project at `~/Applications/SFTP`
+  Activating project at `~/Applications/CI_CD`
 
-julia> using SFTP
+julia> using CI_CD
 ```
 
 ```@autodocs
-Modules = [SFTP]
+Modules = [CI_CD]
 ```
